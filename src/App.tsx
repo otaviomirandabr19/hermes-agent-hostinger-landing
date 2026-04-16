@@ -14,7 +14,7 @@ function App() {
           <span className="brand-mark" />
           <span>
             <strong>Hermes Agent</strong>
-            <small>hostinger pilot</small>
+            <small>VPS + Docker</small>
           </span>
         </a>
 

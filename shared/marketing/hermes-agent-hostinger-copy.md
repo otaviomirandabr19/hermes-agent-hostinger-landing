@@ -18,7 +18,7 @@ Hermes Agent + Hostinger
 Seu agente pode trabalhar na nuvem, não só no seu laptop.
 
 **Supporting copy**
-O Hermes Agent pode rodar em VPS, usar Docker como base de execução e continuar acessível por terminal ou apps de mensagem. Com a Hostinger, a proposta aqui é simples: subir um ambiente com controle real, sem complicar mais do que precisa.
+O Hermes Agent pode rodar em um VPS, usar Docker como base de execução e continuar acessível por terminal ou apps de mensagem. Com a Hostinger, você monta esse ambiente com mais controle e sem depender do laptop ligado o tempo todo.
 
 **CTA principal**
 Ver opção de VPS na Hostinger
@@ -27,7 +27,7 @@ Ver opção de VPS na Hostinger
 Entender o Hermes Agent
 
 **Microcopy de apoio ao CTA**
-Se a oferta fizer sentido para o seu caso, use o link afiliado e teste o cupom `OTAVIOMIRANDA` no checkout. Como campanha e desconto podem variar, a página não deve prometer percentual fixo.
+Se a oferta fizer sentido para você, use o link afiliado e teste o cupom `OTAVIOMIRANDA` no checkout. Como campanhas e descontos podem mudar, vale conferir o benefício disponível no momento da compra.
 
 ---
 
@@ -50,7 +50,7 @@ Ele pode ser usado por terminal e também por integrações de mensagem como Tel
 Uma base direta para publicar, testar e manter o ambiente
 
 **Texto**
-Para esse piloto, a narrativa mais segura é usar um VPS como base do projeto. A Hostinger oferece VPS com full root access, opções de Linux e suporte claro a Docker. Isso ajuda a montar um ambiente controlado, replicável e mais fácil de ajustar quando o objetivo é rodar um agente fora da máquina local.
+Se a ideia é rodar o Hermes Agent fora da máquina local, o caminho mais direto é começar por um VPS. A Hostinger oferece full root access, opções de Linux e suporte claro a Docker. Isso ajuda a montar um ambiente controlado, replicável e mais fácil de ajustar com o tempo.
 
 **Bullets de apoio**
 - controle de ambiente sem depender do computador pessoal
@@ -75,7 +75,7 @@ Use Ubuntu e Docker para deixar a instalação mais previsível e fácil de repe
 Suba o Hermes Agent no ambiente, valide o canal de acesso que faz sentido para você e ajuste o uso com calma.
 
 **Observação curta**
-A página deve vender clareza de caminho, não facilidade absoluta.
+O foco é mostrar um caminho viável, com menos improviso e mais controle.
 
 ---
 
@@ -85,7 +85,7 @@ A página deve vender clareza de caminho, não facilidade absoluta.
 Quando essa combinação faz sentido
 
 **Intro**
-Essa abordagem é boa para quem quer tirar o agente do modo experimental e colocar a rotina em um ambiente mais estável.
+Essa combinação faz sentido para quem quer sair do teste local e colocar o agente em um ambiente mais estável.
 
 **Cards sugeridos**
 
@@ -109,7 +109,7 @@ A proposta do Hermes inclui memória persistente e criação de skills, o que aj
 Se a ideia faz sentido, o próximo passo é montar a base
 
 **Texto**
-Se você quer testar o Hermes Agent em um ambiente próprio, a Hostinger pode ser o ponto de partida para subir esse setup em VPS. Use o link afiliado para abrir a oferta e aplique o cupom `OTAVIOMIRANDA` no checkout se ele estiver ativo para a sua compra.
+Se você quer testar o Hermes Agent em um ambiente próprio, a Hostinger pode ser um bom ponto de partida. Abra a oferta pelo link afiliado e, se o cupom estiver ativo no momento da compra, aplique `OTAVIOMIRANDA` no checkout.
 
 **CTA principal**
 Abrir oferta da Hostinger
@@ -140,7 +140,7 @@ Docker não é a única forma de uso, mas é um caminho claro para organizar o a
 A página promete instalação automática?
 
 **Resposta**
-Não. A página apresenta um caminho viável e bem enquadrado. A configuração final depende do ambiente escolhido e da documentação oficial do Hermes Agent e da Hostinger.
+Não. O conteúdo mostra um caminho viável. A configuração final depende do ambiente escolhido e da documentação oficial do Hermes Agent e da Hostinger.
 
 **Pergunta**
 O cupom garante um desconto específico?

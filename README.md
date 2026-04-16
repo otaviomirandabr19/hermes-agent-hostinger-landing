@@ -23,7 +23,7 @@ A saída fica em `dist/`.
 - Há um workflow pronto em `.github/workflows/deploy-pages.yml` para publicar via GitHub Pages quando o projeto estiver em um repositório GitHub com Pages habilitado.
 - O arquivo `public/.nojekyll` evita interferência do Jekyll no deploy estático.
 - Antes do deploy final, revisar em `src/content/landingContent.ts` apenas se houver mudança comercial ou editorial.
-- O link afiliado ativo está configurado como `https://hostinger.com/otaviomiranda`.
+- O link afiliado ativo está configurado como `https://www.hostg.xyz/SHJH8`.
 - A copy aprovada e a base factual usada na landing também ficam em `shared/marketing/hermes-agent-hostinger-copy.md`.
 
 ### Publicação automática em GitHub Pages

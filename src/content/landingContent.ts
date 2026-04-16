@@ -52,23 +52,23 @@ export const landingContent = {
     eyebrow: 'Hermes Agent + Hostinger',
     title: 'Seu agente pode trabalhar na nuvem, não só no seu laptop.',
     body:
-      'O Hermes Agent pode rodar em VPS, usar Docker como base de execução e continuar acessível por terminal ou apps de mensagem. Com a Hostinger, a proposta aqui é simples: subir um ambiente com controle real, sem complicar mais do que precisa.',
+      'O Hermes Agent pode rodar em um VPS, usar Docker como base de execução e continuar acessível por terminal ou apps de mensagem. Com a Hostinger, você monta esse ambiente com mais controle e sem depender do laptop ligado o tempo todo.',
     note:
-      'Se a oferta fizer sentido para o seu caso, use o link afiliado e teste o cupom OTAVIOMIRANDA no checkout. Como campanha e desconto podem variar, a página não promete percentual fixo.',
+      'Se a oferta fizer sentido para você, use o link afiliado e teste o cupom OTAVIOMIRANDA no checkout. Como campanhas e descontos podem mudar, vale conferir o benefício disponível no momento da compra.',
     panel: {
-      kicker: 'Hermes Agent fora do laptop',
-      title: 'Um cenário de uso claro para quem quer rodar o agente em um ambiente próprio.',
+      kicker: 'Hermes Agent fora da máquina local',
+      title: 'Um jeito prático de rodar o agente em um ambiente próprio, com mais previsibilidade.',
     } satisfies HeroPanel,
     primaryCta: {
       label: 'Ver opção de VPS na Hostinger',
-      href: 'https://hostinger.com/otaviomiranda',
+      href: 'https://www.hostg.xyz/SHJH8',
     },
     secondaryCta: { label: 'Entender o Hermes Agent', href: '#overview' },
     badges: ['CLI + canais de mensagem', 'Memória e skills', 'VPS + Docker'],
     metrics: [
       { value: 'Nous Research', label: 'projeto oficial por trás do Hermes Agent' },
-      { value: 'Full root access', label: 'claim oficial usado para enquadrar a VPS da Hostinger' },
-      { value: 'OTAVIOMIRANDA', label: 'cupom indicado no briefing, sem promessa de desconto fixo' },
+      { value: 'Full root access', label: 'recurso oficial destacado na VPS da Hostinger' },
+      { value: 'OTAVIOMIRANDA', label: 'cupom para testar no checkout, sem desconto fixo prometido' },
     ] satisfies Metric[],
   },
   overview: {
@@ -100,7 +100,7 @@ export const landingContent = {
     sectionLabel: 'Hostinger + VPS + Docker',
     sectionTitle: 'Uma base direta para publicar, testar e manter o ambiente.',
     sectionBody:
-      'Para esse piloto, a narrativa mais segura é usar um VPS como base do projeto. A Hostinger oferece VPS com full root access, opções de Linux e suporte claro a Docker. Isso ajuda a montar um ambiente controlado, replicável e mais fácil de ajustar quando o objetivo é rodar um agente fora da máquina local.',
+      'Se a ideia é rodar o Hermes Agent fora da máquina local, o caminho mais direto é começar por um VPS. A Hostinger oferece full root access, opções de Linux e suporte claro a Docker. Isso ajuda a montar um ambiente controlado, replicável e mais fácil de ajustar com o tempo.',
     cards: [
       {
         title: 'Controle de ambiente sem depender do laptop',
@@ -109,20 +109,20 @@ export const landingContent = {
       },
       {
         title: 'Docker como caminho prático para empacotar o setup',
-        text: 'Containers entram como caminho claro para organizar instalação, repetição do ambiente e manutenção sem drama.',
+        text: 'Containers entram como um caminho claro para organizar instalação, repetição do ambiente e manutenção sem depender de improviso.',
         detail: 'A própria Hostinger publica material oficial sobre Docker em Ubuntu dentro desse contexto.',
       },
       {
         title: 'Linux disponível para um fluxo previsível',
-        text: 'Ubuntu e outras distros Linux aparecem como base útil para um setup que precisa ser ajustado com calma e sem improviso.',
-        detail: 'O foco aqui é clareza de caminho, não promessa de facilidade absoluta.',
+        text: 'Ubuntu e outras distros Linux aparecem como base útil para um setup que você pode ajustar com calma, sem prender tudo a uma máquina só.',
+        detail: 'O foco aqui é mostrar um caminho viável, não vender facilidade absoluta.',
       },
     ] satisfies InfrastructureCard[],
   },
   flow: {
     sectionLabel: 'Fluxo em 3 passos',
     sectionTitle: 'Como esse setup entra no ar.',
-    note: 'A página vende clareza de caminho, não facilidade absoluta.',
+    note: 'O foco é mostrar um caminho viável, com menos improviso e mais controle.',
     steps: [
       {
         step: '01',
@@ -145,7 +145,7 @@ export const landingContent = {
     sectionLabel: 'Casos de uso e benefícios',
     sectionTitle: 'Quando essa combinação faz sentido.',
     intro:
-      'Essa abordagem é boa para quem quer tirar o agente do modo experimental e colocar a rotina em um ambiente mais estável.',
+      'Essa combinação faz sentido para quem quer sair do teste local e colocar o agente em um ambiente mais estável.',
     items: [
       {
         title: 'Ambiente separado do laptop',
@@ -169,23 +169,23 @@ export const landingContent = {
     sectionLabel: 'Oferta e CTA final',
     title: 'Se a ideia faz sentido, o próximo passo é montar a base.',
     body:
-      'Se você quer testar o Hermes Agent em um ambiente próprio, a Hostinger pode ser o ponto de partida para subir esse setup em VPS. Use o link afiliado para abrir a oferta e aplique o cupom OTAVIOMIRANDA no checkout se ele estiver ativo para a sua compra.',
+      'Se você quer testar o Hermes Agent em um ambiente próprio, a Hostinger pode ser um bom ponto de partida. Abra a oferta pelo link afiliado e, se o cupom estiver ativo no momento da compra, aplique OTAVIOMIRANDA no checkout.',
     coupon: 'OTAVIOMIRANDA',
     primaryCta: {
       label: 'Abrir oferta da Hostinger',
-      href: 'https://hostinger.com/otaviomiranda',
+      href: 'https://www.hostg.xyz/SHJH8',
     },
     secondaryCta: { label: 'Ler a documentação do Hermes Agent', href: 'https://hermes-agent.nousresearch.com/' },
-    note: 'Cupom e condições comerciais podem mudar sem aviso. A interface não promete desconto fixo.',
+    note: 'Campanhas e condições comerciais podem mudar sem aviso. Confira o benefício disponível no checkout.',
   },
   faq: {
-    sectionLabel: 'FAQ / notas de escopo',
-    sectionTitle: 'O que esta página promete — e o que ela não promete.',
+    sectionLabel: 'Perguntas frequentes',
+    sectionTitle: 'Perguntas frequentes antes de subir o ambiente.',
     items: [
       {
         question: 'Preciso deixar meu computador ligado?',
         answer:
-          'Não necessariamente. A proposta desta página é justamente mostrar um cenário em que o Hermes Agent roda em um VPS, fora da máquina local.',
+          'Não necessariamente. A ideia aqui é mostrar um cenário em que o Hermes Agent roda em um VPS, fora da máquina local.',
       },
       {
         question: 'Esse setup depende de Docker?',
@@ -195,7 +195,7 @@ export const landingContent = {
       {
         question: 'A página promete instalação automática?',
         answer:
-          'Não. A página apresenta um caminho viável e bem enquadrado. A configuração final depende do ambiente escolhido e da documentação oficial do Hermes Agent e da Hostinger.',
+          'Não. O conteúdo mostra um caminho viável. A configuração final depende do ambiente escolhido e da documentação oficial do Hermes Agent e da Hostinger.',
       },
       {
         question: 'O cupom garante um desconto específico?',
@@ -205,8 +205,8 @@ export const landingContent = {
     ] satisfies FaqItem[],
   },
   footer: {
-    kicker: 'Frontend-only · GitHub Pages ready',
-    title: 'Hermes Agent + Hostinger',
-    body: 'Landing responsiva com copy final aplicada, CTA afiliado configurado e base estática pronta para revisão final ou publicação.',
+    kicker: 'Hermes Agent + Hostinger',
+    title: 'VPS, Docker e um caminho mais claro para rodar fora do laptop',
+    body: 'Uma página direta para entender o cenário, validar o setup e decidir se faz sentido levar o Hermes Agent para um ambiente próprio.',
   },
 }
